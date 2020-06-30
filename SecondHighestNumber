@@ -9,7 +9,7 @@ public class SecondHighestNumber {
         int largest = 0;
         int secondLargest = 0;
    
-        // This is optional ( until line 20 ) - just to make sure, the input arr is not duplicate & sorted in ascending order 
+        // **Sekhar** This is optional ( until line 20 ) - just to make sure, the input arr is not duplicate & sorted in ascending order 
         
         TreeSet<Integer> tree = new TreeSet<Integer>();
 
@@ -20,14 +20,14 @@ public class SecondHighestNumber {
         arr = new Integer[tree.size()];
        arr =  tree.toArray(arr);
  
-        // This is optional, if you want to see the input elements 
+        // **Sekhar** This is optional, if you want to see the input elements 
         
         for (int i = 0; i < arr.length; i++)
         {
         System.out.print(arr[i] + " ");
         }
       
-        // The actual logic starts here 
+        // **Sekhar** The actual logic starts here 
         for (int i = 0; i < arr.length; i++)
         {
             if (arr[i] > largest)
