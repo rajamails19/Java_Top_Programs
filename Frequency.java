@@ -1,5 +1,5 @@
 
-12package javaBasicPrograms;
+1package javaBasicPrograms;
 
 import java.util.Arrays;
 
