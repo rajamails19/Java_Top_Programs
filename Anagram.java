@@ -1,4 +1,4 @@
-123451
+12345
 package sample_1;
 
 import java.util.HashMap;
