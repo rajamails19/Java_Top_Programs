@@ -1,6 +1,6 @@
 
 package sample_1;
-12345
+1234
 
 import java.util.HashMap;
 import java.util.Scanner;
