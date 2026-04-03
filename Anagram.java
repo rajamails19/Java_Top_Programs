@@ -1,6 +1,6 @@
 
 package sample_1;
-12
+1
 
 import java.util.HashMap;
 import java.util.Scanner;
