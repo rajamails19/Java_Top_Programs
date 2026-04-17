@@ -3,7 +3,7 @@ package sample_1;
 
 import java.util.HashMap;
 import java.util.Scanner;
-1234
+123
 
 public class Anagram
 {
